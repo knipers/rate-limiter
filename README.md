@@ -2,7 +2,6 @@
 
 [![Go](https://img.shields.io/badge/Go-1.24+-00ADD8?style=flat-square&logo=go)](https://golang.org/)
 [![Licença](https://img.shields.io/badge/Licença-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Go Report Card](https://goreportcard.com/badge/github.com/knipers/rate-limiter)](https://goreportcard.com/report/github.com/knipers/rate-limiter)
 
 Um middleware de limitação de taxa de requisições em Go, otimizado para desempenho e utilizando Redis como backend. Projetado para controlar o acesso a APIs e serviços web de forma eficiente e personalizável.
 
@@ -17,7 +16,7 @@ Um middleware de limitação de taxa de requisições em Go, otimizado para dese
 ## 🚀 Começando
 
 ### Pré-requisitos
--
+
 - Go 1.24 ou superior
 - Servidor Redis (para ambiente de produção)
 
